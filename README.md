@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-Binary Search Tree + graphics
+graphical representation of binary search tree
